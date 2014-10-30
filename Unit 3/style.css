@@ -1,0 +1,33 @@
+body {
+	background: url(images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #52586C;
+	font-size: 20px;
+	font-family: helvetica, sans-serif;
+	color: #FFFFFF;
+
+}
+hr {
+
+	color: red;
+	border: 1px #FB686C solid;
+	width: 40px;
+	margin-left: 0px;
+
+}
+
+
+.stripe {
+	background: url(images/stripes.png);
+	height: 13px;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left:0px;
+}
+#message {
+	padding-top: 500px;
+	padding-left: 120px;
+
+}
