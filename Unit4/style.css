@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background: url("http://store.inspiremebaby.com/wp-content/uploads/2012/04/darkwood-plank.jpg") no-repeat center center fixed;
+  background-size: cover;
+  background-position: center;
+  padding-top:175;
+}
+h1 {
+  text-align: center;
+  padding-top: 500px;
+  font-family: 'architects daughter';
+  color: gold;
+  font-size: 200px;
+  text-decoration: underline;
+  text-transform: bold;
+  line-height: 190px;
+}
+h2 {
+  font-family: 'kaushan script';
+  color: silver;
+  font-size: 100px;
+  font-weight: 800px;
+  padding-top: 50px;
+  text-align: center;
+}
+p {
+  font-size: 75px;
+  font-family: 'architects daughter';
+  color: gold;
+}
+
+
+
