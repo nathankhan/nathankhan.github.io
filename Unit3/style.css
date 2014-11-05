@@ -1,23 +1,17 @@
-body {
+body{
 	background: url(images/background.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #52586C;
+	color: #FFFFFF;
 	font-size: 20px;
 	font-family: helvetica, sans-serif;
-	color: #FFFFFF;
-
 }
 hr {
-
-	color: red;
 	border: 1px #FB686C solid;
 	width: 40px;
 	margin-left: 0px;
-
 }
-
-
 .stripe {
 	background: url(images/stripes.png);
 	height: 13px;
@@ -27,7 +21,5 @@ hr {
 	left:0px;
 }
 #message {
-	padding-top: 500px;
-	padding-left: 120px;
-
+	margin: 500px 0 0 120px;
 }
