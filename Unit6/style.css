@@ -1,0 +1,30 @@
+body {
+	background-color: #4F4F4F;
+}
+img {
+	float: left;
+	display: block;
+	padding left: center;
+}
+.resize {
+	height: 75px;
+	width: auto;
+}
+nav {
+	float: right;
+	font-size: 20px;
+	font-weight: 10px;
+}
+nav a {
+	text-decoration: none;
+	opacity: 1.0;
+	color: #ffffff;
+	display:inline-block;
+	margin: 30px;
+	border-left: 1px solid #55D7FF;
+}
+iframe {
+	float: right;
+	vertical-align: center;
+	padding-top: 250px;
+}
